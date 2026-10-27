@@ -1,23 +1,22 @@
-<div align="center">
-
-<a href="https://apikey.fun/register?aff=Q8QBWMYWFPCT"><img src="docs/assets/apikey-banner.png" alt="API 中转站 · 点击注册" width="420" /></a>
-
-**API 中转站推荐 / 广告位**  
-[通过作者邀请链接注册 →](https://apikey.fun/register?aff=Q8QBWMYWFPCT)
-
-如需中转接口，可通过上方邀请链接了解。是否使用由你决定；项目也支持其他兼容服务。接口地址、模型、价格与可用性以服务商说明为准，API 调用费用由使用者承担。
-
 # 亚马逊图片工作台
 
 Amazon Image Workbench · 产品图片策划、生成与编辑
 
 [安装运行](#安装运行) · [界面预览](#界面预览) · [接口配置](#接口配置) · [Skill](#随附的-amazon-图片策划-skill) · [支持作者](#支持作者与部署协助)
 
-</div>
-
 亚马逊图片工作台是一个面向 Amazon Listing 的产品图片策划与生成工作台，基于 [Ali-Aria/amazon-image-studio](https://github.com/Ali-Aria/amazon-image-studio) 修改。
 
 它适合把产品标题、五点描述、卖点文案和参考图整理成 Amazon 商品图片或 A+ Content 图片方案，并继续生成、编辑和管理图片。此版本聚焦图片制作工作流，采用 MIT 协议免费开源。
+
+## API 中转站推荐
+
+<a href="https://apikey.fun/register?aff=Q8QBWMYWFPCT"><img src="docs/assets/apikey-banner.png" alt="APIKEY.FAN · API 中转站" width="364" /></a>
+
+**APIKEY.FAN** 是面向开发者与团队的 AI 模型 API 中转服务，提供 Claude、ChatGPT、Gemini 等主流模型的统一接入。根据官网介绍，支持支付宝和微信支付，可按需求选择模型并查看调用价格，适合需要在工具中接入多种 AI 模型的用户。
+
+[通过作者邀请链接了解并注册 →](https://apikey.fun/register?aff=Q8QBWMYWFPCT)
+
+此处为作者推荐的推广位。具体模型、接口兼容性、价格与服务规则以中转站说明为准；本项目也支持其他兼容服务。
 
 ## 功能
 
