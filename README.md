@@ -2,6 +2,8 @@
 
 Amazon Image Workbench · 产品图片策划、生成与编辑
 
+**[在线预览 →](https://zkizz.github.io/amazon-image-workbench/)** · 无需安装，打开即可体验界面；AI 功能需自行配置 API Key。
+
 [安装运行](#安装运行) · [界面预览](#界面预览) · [接口配置](#接口配置) · [Skill](#随附的-amazon-图片策划-skill) · [支持作者](#支持作者与部署协助)
 
 亚马逊图片工作台是一个面向 Amazon Listing 的产品图片策划与生成工作台，基于 [Ali-Aria/amazon-image-studio](https://github.com/Ali-Aria/amazon-image-studio) 修改。
@@ -176,7 +178,7 @@ Cloudflare Workers 静态资源也可运行 `npm run deploy:cf`，首次需完�
 
 ### GitHub Pages
 
-仓库附带 `.github/workflows/deploy.yml`，手动触发部署，避免刚开源就部署失败：
+仓库附带 `.github/workflows/deploy.yml`，推送到 `main` 后自动更新在线预览，也可手动触发部署：
 
 1. 打开仓库 `Settings → Pages`，Source 选择 `GitHub Actions`。
 2. 在 `Actions → Deploy to GitHub Pages → Run workflow` 执行。
